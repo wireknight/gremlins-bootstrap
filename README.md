@@ -120,8 +120,8 @@ the articles supply the why.**
 
 The full current-shape ladder is drafted: 19 cards in `cards/`, from local execution machinery through
 docs gates and doctor. The October 21 pointer, READ-receipt and remote-cloud cards are superseded by
-local handoff, recovery and local-compute cards. The supersession is recorded in the
-[2026-10-25 local-first reassessment](docs/findings/local-first-reassessment-2026-10-25.md).
+local handoff, recovery and local-compute cards; the supersession is recorded in each
+card's re-derivation note.
 What remains is execution, not specification: create or
 choose a repository, file the cards, and run the ladder until the machinery starts dispatching itself.
 The close-out records become this repository's history.
